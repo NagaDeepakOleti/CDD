@@ -1,1 +1,6 @@
 some data is added at master branch
+<<<<<<< HEAD
+=======
+git add at CSEH
+add at CSEH
+>>>>>>> CSEH
